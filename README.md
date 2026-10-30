@@ -10,4 +10,4 @@ With the continuous advances in generative artificial intelligence technologies,
 
 ## code
 
-The training and inference code used for EmoPose is maintained in the accompanying local implementation workspace, and the manuscript source and project records are provided in this repository. The configuration used for the current experiments is `configs/cogvideox_5b_i2v_lcm.yaml`.
+We will upload the training as well as the test code and the full dataset at an appropriate time!
